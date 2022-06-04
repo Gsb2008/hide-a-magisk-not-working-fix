@@ -1,0 +1,21 @@
+{
+ "magisk": {
+
+"version": "23.0", "versionCode": "23000",
+
+"link":
+
+"https://github.com/Gsb2008/mg-fx/releases/download/Sbnphf/Magisk-v23.0.apk", "note":
+
+"https://github.com/Gsb2008/mg-fx/releases/tag/Sbnphf
+
+000.md" },
+
+"stub": {
+
+"versionCode": "21",
+
+"link": "https://github.com/Gsb2008/mg-fx/releases/download/Sbnphf/stub-release.apk" }
+
+}
+
